@@ -1,0 +1,40 @@
+Java
+MOOC Object Oriented Programming with Java from the University of Helsinki https://java-programming.mooc.fi/
+Hyperskill (project-based) https://hyperskill.org/tracks?category=2
+
+JavaRush International https://codegym.cc/
+JavaRush Ru https://javarush.com/           
+
+Java for Complete Beginners https://www.udemy.com/java-tutorial
+	accompanying site CaveOfProgramming http://caveofprogramming.com/
+
+
+
+
+The official Documentation http://docs.oracle.com/javase/
+The official Java Tutorials https://www.oracle.com/java/technologies/jdtt-jsp.html or http://www.oracle.com/technetwork/java/index-jsp-135888.html
+Reddit resources thread https://www.reddit.com/r/learnjava/comments/md1loc/community_resources/
+Learn Java https://dev.java/learn/
+
+	YouTube
+Alex Lee https://www.youtube.com/playlist?list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ
+Derek Banas' Java Playlist https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19
+	accompanying site NewThinkTank http://newthinktank.com/
+Java https://www.youtube.com/user/java
+
+Laur Spilca https://www.youtube.com/@laurspilca/playlists
+
+	Spring
+Chad Darby's course on udemy https://www.udemy.com/course/spring-hibernate-tutorial/
+
+
+
+
+	Practice/Challenges
+hackerrank, codewars, leetcode
+https://spring.io/projects
+https://www.baeldung.com/
+
+
+
+	Books
