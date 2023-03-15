@@ -5,14 +5,18 @@ Hyperskill (project-based) https://hyperskill.org/tracks?category=2
 JavaRush International https://codegym.cc/
 JavaRush Ru https://javarush.com/           
 
-Java for Complete Beginners https://www.udemy.com/java-tutorial
+John Purcell Java for Complete Beginners https://www.udemy.com/java-tutorial
 	accompanying site CaveOfProgramming http://caveofprogramming.com/
+	or Java 11 For Complete Beginners https://www.udemy.com/course/java-11-complete-beginners/
+	+ other John Purcell's courses
 
+	Udemy [EN]
+[Luffy Kunkka]Java Programming Masterclass updated to Java 17 (Tim Buchalka) https://www.udemy.com/course/java-the-complete-java-developer-course/
 
-
-
+Oracle Java Tutorials http://docs.oracle.com/javase/tutorial/
 The official Documentation http://docs.oracle.com/javase/
 The official Java Tutorials https://www.oracle.com/java/technologies/jdtt-jsp.html or http://www.oracle.com/technetwork/java/index-jsp-135888.html
+	and http://docs.oracle.com/javase/tutorial/
 Reddit resources thread https://www.reddit.com/r/learnjava/comments/md1loc/community_resources/
 Learn Java https://dev.java/learn/
 
@@ -21,11 +25,23 @@ Alex Lee https://www.youtube.com/playlist?list=PL59LTecnGM1NRUyune3SxzZlYpZezK-o
 Derek Banas' Java Playlist https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19
 	accompanying site NewThinkTank http://newthinktank.com/
 Java https://www.youtube.com/user/java
+Bro Code
+Coding with John
+Java Brains
+Programming with Mosh https://www.youtube.com/playlist?list=PLTjRvDozrdlyjm_nKyYt4b5C1zx4Xdaut
+
 
 Laur Spilca https://www.youtube.com/@laurspilca/playlists
 
+
+
 	Spring
 Chad Darby's course on udemy https://www.udemy.com/course/spring-hibernate-tutorial/
+
+Ru:
+Заур Трегулов - Spring для начинающих https://www.udemy.com/course/spring-framework/
+alishev Spring - Полный курс. Boot, Hibernate, Security, REST. https://www.udemy.com/course/spring-alishev/
+
 
 
 
@@ -36,5 +52,30 @@ https://spring.io/projects
 https://www.baeldung.com/
 
 
+Ru:
+	Stepik:
+... Java. Базовый курс https://stepik.org/course/187/syllabus (https://github.com/meanmail/java_base)
+Разработка веб сервиса на Java (часть 1) https://stepik.org/course/146/promo
+Разработка веб сервиса на Java (часть 2) https://stepik.org/course/186/promo
+Adaptive Java https://stepik.org/course/2403/promo
+Летняя Java школа https://stepik.org/course/10498/promo
+Легкий старт в Java. Вводный курс для чайников https://stepik.org/course/90684/promo
 
-	Books
+	Udemy [RU]:
+Заур Трегулов - Java для начинающих: с нуля до сертификата Oracle https://www.udemy.com/course/java-oca-oracle/ 
+	                                           + продолжение JAVA – получи Чёрный Пояс! https://www.udemy.com/course/java-ot-zaura/
+alishev Продвинутая Java https://www.udemy.com/course/javarussia/
+Андрей Сумин Java с нуля до Junior + Подготовка к собеседованию https://www.udemy.com/course/java_sumin/
+
+	YouTube
+... Follow the white rabbit - Курс основы Java https://www.youtube.com/playlist?list=PLEd6LarmkKnWkeHqu9_ngkHN-AnWQD6VM
+alishev Java для начинающих https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak
+15 лучших каналов YouTube по Java для новичков и профессионалов https://proglib.io/p/15-luchshih-kanalov-youtube-po-java-dlya-novichkov-i-professionalov
+
+JIT компилятор в JVM глазами Java программиста https://www.youtube.com/watch?v=Pc-aB5U7RBI
++ Как работает Java — ликбез https://www.youtube.com/watch?v=AnRKrnbiVzU
+Mad Brains Backend на Java: большой курс для входа в профессию backend-разработчика https://www.youtube.com/playlist?list=PLw6SJ6q6-1YptavAy65knVOSBZ_y6YxmV
+Computer Science Center - Программирование на Java (весна 2022, Тагир Валеев) https://www.youtube.com/playlist?list=PLlb7e2G7aSpTCB2OxGlezpgOXwq4xer7Z
+
+
+ТОП-20 бесплатных учебных курсов по Java для новичков https://proglib.io/p/top-20-besplatnyh-uchebnyh-kursov-po-java-dlya-novichkov

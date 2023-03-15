@@ -3,5 +3,10 @@ https://devopswithdocker.com/
 https://devopswithkubernetes.com/
 
 
+Как освоить профессию инженера DevOps в 2021 году? https://proglib.io/p/kak-osvoit-professiyu-inzhenera-devops-v-2021-godu-2021-05-18
+ТОП-10 книг из библиотеки специалиста DevOps https://proglib.io/p/top-10-knig-iz-biblioteki-specialista-devops-2020-09-29
+Путь в профессию: интервью с инженером DevOps https://proglib.io/p/put-v-professiyu-intervyu-s-inzhenerom-devops-2021-06-16
+11 лучших каналов YouTube, посвященных DevOps https://proglib.io/p/11-luchshih-kanalov-youtube-posvyashchennyh-devops-2021-11-08
+
 Docker
 https://github.com/omerbsezer/Fast-Docker
