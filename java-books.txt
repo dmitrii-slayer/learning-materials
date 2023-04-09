@@ -1,0 +1,17 @@
+Cay Horstmann - Core Java for the Impatient
+Core Java - Horstsmann
+Introduction to Java Programming by Y. Daniel Liang
+Deitel
+
+
+
+
+
+
+
+
+TCP/IP Sockets in Java: Practical Guide for Programmers (The Practical Guides) - Kenneth L. Calvert, Michael J. Donahoo
+
+
+Java полное руководство - Герберт Шилдт, 10-е издание, 2018г. https://github.com/aykononov/java-book-Schildt
+Java: руководство для начинающих https://github.com/wapmorgan/java_for_beginners_book

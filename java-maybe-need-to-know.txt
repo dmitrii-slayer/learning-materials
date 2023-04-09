@@ -1,0 +1,235 @@
+Изучаем Java https://www.youtube.com/channel/UCZ5hz-Ftta2AIquZoBmV9RA/playlists
+
+41 уровень,
+ушло около 300 часов чтения материала(из них около 70-80 часов материал с JavaRush, остальной по сопряженным ссылкам)
++ около 400 часов просмотра обучающих видео(в основном на YouTube)
++ около 350 часов на решение задач с JavaRush
++ около 400 часов практики на собственных придуманных проектах(сначала делал простенькие игры и мини-программки с отображением в консоли, потом более в техническом плане, потом сложные и более красивые на Swing, и с более красивым UI и т.д.).
+Итого порядка 9 месяцев плюс, минус.
+
+Полезнее всего могу отметить, что было:
+1. Чтение материала именно с JavaRush (лекции, посты в группах, комменты, обсуждения) и с этого ресурса https://java-course.ru/begin/ (остальное чтиво тяжеловато и неупорядоченно, особенно начинающим)
+2. Практика именно над своими проектами (не задачи с JavaRush, ибо они сделаны в большинстве своем на отъе...ись, полезно только первые может уровней 7-8 и в многопоточности процентов 20 неплохих есть и все), придумывайте идеи и воплощайте, а потом улучшайте - это лучше всего.
+3. Просмотр видеоуроков с толкового канала (их немного, т.к. в основном даже толковые ребята излагают материал ущербно и непонятно), мне лично самым полезным показался именно этот канал https://www.youtube.com/channel/UCZ5hz-Ftta2AIquZoBmV.. (а точнее его рубрика Изучаешь Java - создай проект), там полторы сотни структурированных видео, пройдя которые самолично на своем ноуте, Вы реально чему-то научитесь. Потому его могу рекоммендовать, тем более сам автор - человек очень грамотный и крайне профессиональный, приятно слушать и понятно усваивать его лекции.
+
+
+Привет всем! Мне после моего поста тут регулярно пишут люди с вопросом, стоит ли подписываться на JavaRush, и что вообще учить по Java. Поэтому ответив уже наверное сотне людей в личке, решил написать тут для всех сразу свое мнение, кому это вдруг интересно. По моим ощущениям - все зависит от целей: если хочешь не особо напрягаться при обучении и через год уметь неплохо решать простейшие задачи на Java, а через два - более-менее нормально разрабатывать, то стоит, а если хочешь максимально эффективно научиться разрабатывать, несмотря на то что придется пахать - определенно не стоит. Потратишь год времени на решение их задач, и все еще не сможешь написать ни одной мало-мальски нормальной программы и не будешь разбираться в необходимых при разработке инструментах. Лучше, опять же имхо, посмотреть, допустим, все видосы YouTube-канала, который я указал выше, а после этого просто прочитать несколько книг (для полноты информации) на это уйдет тот же год или около того, но этого уже будет достаточно, чтобы заниматься разработкой на Java по полной (самому или мидлом в какой-то конторе, неважно). Только самое главное не просто смотреть видео или листать книжки по интересующим тебя главам, а именно разобраться в материале, т.е. прочил главу -> разобрался(погуглил, если надо) -> все законспектировал у себя в тетради или на ноуте(впоследствии будет очень удобно иметь конспект) -> перевел полученные знания в код (в иделе со временем писать проект, который кому-то интересен, хотя бы тебе самому) -> только после этого читаешь \ смотришь дальше. Вот тогда будет быстрый и эффективный прогресс. Это в разы сложнее, чем решать JavaRush, но и в разы эффективнее. JavaRush дает очень удобно и очень растянуто по времени базовое знание, но это 5% того, что придется изучить и понять программисту и тратить на это год жалко.. Вот примерный стек того, что стоит знать серьезному программисту на Java (написал в том порядке, в котором это все надо изучать, а теперь прикиньте сами сколько из этого есть в курсе JavaRush):
+
+1. Java Core:
+1) Java Syntax (classes, methods, types, operations, imports, conditions, cycles)
+2) Objects (Object, constructor, private, static, this)
+3) String, toString, String.format
+4) Array, Arrays
+5) IDE (IDEA, Eclipse, NetBeans, Oracle JDeveloper)
+6) Math, Date, Calendar, DateFormat
+7) OOP
+8) Wrappers, downcast, instanceOf, varargs
+9) Final, immutable, StringBuffer, StringBuilder, RegEx
+10) Enums & Generics
+11) Exceptions
+12) Collections (equals, hashCode, comparing)
+13) Java 8 (Stream API, Functional Interfaces, LocalDate)
+14) IO / NIO (File, Files, Path, parsing, e t.c.)
+15) Java Utils & Libs (Objects, BigInteger, URL, Properties, java.lang, java.util, java.net, Commons IO, Sound API, e t.c.)
+16) Serialization & Cloning
+17) Reflection (Dynamic Proxy, RMI)
+18) Java Annotations
+19) Java 9-15
+20) Multithreading
+21) JMM, JVM, GC, finalize (VisualVM, Java Decompiler)
+
+2. Java Patterns:
+1) OOP Patterns (Main paradigms, SOLID principles, UML)
+2) GoF-patterns
+3) GRASP-patterns
+4) Antipatterns
+5) Enterprise Architecture Patterns
+6) Enterprise Integration Architecture Patterns
+7) Development Design (TestDD, TypeDD, BDD, DDD, FDD, MDD, PDD)
+
+3. Java GUI's (AWT, Swing, JavaFX, SWT, GWT, Vaadin, ZK)
+
+4. Data Bases:
+1) SQL
+2) JDBC
+3) ORM (JPA, Hibernate, HQL, JPQL, JTA, iBatis, Mapstruct)
+4) RDBMS (PostgreSQL, MySQL, Oracle, MS SQL Server, H2)
+5) Distributed DB (Hadoop, Splunk, Spark)
+6) In-memory DB (VoltDB, MemSQL)
+7) NoSQL DB (MongoDB, Neo4j, Cassandra, Apache Ignite, Tarantool)
+8) DB Migration (Liquibase, Flyway, Flocker, JOOQ)
+9) Cache Systems (Memcache, Redisson, Kryo, EhCache)
+
+5. EE Tools:
+1) VCS (Git, GitHub, GitLab, BitBucket, Mercurial, Subversion)
+2) Build Automation (Maven, Gradle, Ant)
+3) Modular Unit Testing (JUnit4, Mockito, Spock, TDD, Mutation Tests, PITest, JUnit5, Jupiter, Hamcrest, TestNG, HttpUnit, DBUnit, XMLUnit, JWebUnit, JMock, JBehave, EasyMock, Cactus, GrandTestAuto)
+4) Integration Testing (MockMvc, BDD, Cucumber, Cobertura, Clover, MockFtpServer, Greenmail, Serenity(Thucydides), Jameleon, Gauge)
+5) End-To-End & UI Testing (Selenium, Selenide, SoapUI Pro, Fit, FitNesse, Abbot, CruiseControl, Hudson, Geb, Marathon & Unicorn(for Swing))
+6) Load & Performance Testing (Jmeter, JMH, Yandex.Tank, Gatling, Boomq.io, JRat, LoadRunner, LoadNinja, WebLOAD, LoadUIPro, BlazeMeter, K6)
+7) Profiling (YourKit, JProfiler, VisualVM, JMX, Serviceability Agent, JVMTI, jstack, jps, jinfo, jmap, jcmd, jstat)
+8) Logging (Log4j, Slf4j, Logback)
+9) Code Autoreview (PMD, CheckStyle, FindBugs, JaCoCo, SpotBugs, SonarQube, Pitest)
+10) Web Servers & Load Balancers (Tomcat, Jetty, Nginx, Apache Http Server, HAProxy, Traefik)
+11) App Servers (GlassFish, WebSphere, WildFly(JBoss), WebLogic)
+12) Cloud Services (Microsoft Azure, Amazon Web Services, GCP, Google Compute Engine)
+13) DevOps (Docker, Kubernetes, Jenkins, Puppet, Nexus, Ansible, Terraform)
+14) JMS Tools (Message Brokers, ActiveMQ, RabbitMQ, Kafka, Java Mail)
+15) Schedulers (Quartz, JCron)
+16) Search & Index Systems (Lucene, Elasticsearch, Apache Solr, Sphinx)
+17) Office Systems (Apache POI, Apache PDFBox)
+18) Security (Java Crypto API, Web Security)
+19) Enterprise Brokers (ESB)
+20) BPMN (BPEL, Activiti, jBPM)
+21) BRMS (JSR-94, Drools, Jess, ILOG JRules, OpenRules)
+22) Project Manager Systems (Jira & Confluence, OpenProject, Redmine, YouTrack, CollabNet, Crucible, Tuleap)
+
+6. Java EE:
+1) XML (SAX, StAX, DOM, XPath, XSLT)
+2) JSON (mJSON, JSON-P, JsonPath, Gson, Jackson, fasterXML)
+3) Network (HTTP, TCP-IP, UDP, Sockets)
+4) HTML (XHTML, CSS, AJAX, JS (Basic))
+5) EJB (DI, CDI, JNDI, JSF, Jakarta EE)
+6) Servlets (Filters, MVC, Struts)
+7) JSP (JSTL, EL, Mustache, Velocity, FreeMarker, Thymeleaf)
+8) Integration (WS, ReST, SOAP, JMS, UDDI, WSDL, WADL, MDB, JAX-WS, JAX-RS, JAXB, JAXR, SAAJ)
+9) JavaDoc, Swagger, OpenAPI Specification
+10) WebTools (Lombok, WebSocket, Apache Camel, Jsoup, Postman, Turbolinks)
+
+7. Spring:
+1) Spring Core (Spring Beans, Spring Context, IoC, Spring DI, SPeL)
+2) Spring AOP (Aspects, AspectJ)
+3) Spring for DB (Spring JDBC, Templates, TX, Spring ORM, OXM)
+4) Spring Data (- JPA, - Redis, - Cassandra, - Access, - Solr, - Elasticsearch)
+5) Spring Cache
+6) Spring MVC
+7) Spring Testing
+8) Spring Security (Http Security, JSP Security, Authetication Security, Methods Security)
+9) Spring RPC Integration (RMI, Hessian/Burlap, Spring HTTP Invoker, JAX-WS)
+10) Spring ReST Integration (RestTemplate, Spring ReST Docs)
+11) Spring JMS Integration (MDB, JmsTemplate, Spring MDP, Spring JMS Invoker, Lingo)
+12) Spring Boot (-boot-starter-web, -devtools, -security, -test, -validation, -data-jpa, -mail, Actuator, Okta e t.c.)
+13) Spring Integration (Spring Cloud Stream)
+14) Spring for RabbitMQ
+15) Spring for Apache Kafka
+16) Spring Session
+17) Spring JMX (MBeans, JMXMP, JMX Publisher)
+18) Spring-WS ("contract-first")
+19) Spring Web Flow
+20) Spring Web Flux
+21) Spring Reactive Web
+22) Spring EJB Integration
+23) Spring Cloud
+24) Spring Social
+25) Spring Batch
+26) Spring-DM
+27) Spring Roo
+28) Spring Flex
+29) Spring AMQP
+30) Spring XD
+31) Spring LDAP
+32) Spring Shell
+33) Spring Rich Client (for Swing)
+34) Spring HATEOAS
+35) Spring CredHub
+36) Spring Flo
+37) Spring Statemachine
+38) Spring Vault
+39) Spring IO Platform
+40) Spring Mobile
+41) Spring for Android
+
+
+
+
+Вот список книг, в которых необходимый минимум можно узнать с нуля хоть в какой-то мере (опять же выкладываю в порядке естественного усвоения), читайте, разбирайтесь, чтиво достаточно простое(5.2.0. - вообще минимальные заметки, например) и подобрано специально на русском. После 10 книги можно идти разрабатывать хоть что-то мало-мальски путное (хотя по-хорошему нужно еще штучек 60-70 тематических книг усвоить (а для становления профи так все 600-700, причем львиная их доля уже далеко не по Java, а по сопряженным темам: инструментарий, архитектура, оптимизация, алгоритмы, сети, оси, железо, интерфейсы, родственные языки, обработка, маппинг, парсинг, трансформация, хранение, передача и защита данных, синхронные и асинхронные взаимодействия и т.д. и т.п.), но и эти 10 книг уже будет неплохо, т.к. весь курс JavaRush, например, занимает реально год (если заниматься по совести), а дает от силы 15-20% от первой книги, 10% от 2-ой книги и 2% от 8-ой...и это даже не смешно: за год можно все 10 вызубрить от корки до корки и по каждой написать дюжину приложений, а это в 30 раз больше знаний и опыта, как минимум)
+1.1.1. Герберт Шилдт. Java Полное Руководство (10е издание, 2018).pdf
+32.5 MB
+2.1.1. Разработка обслуживаемых программ (2016).pdf
+10.4 MB
+4.1.1. SQL, Postgres. Базовый курс (2017).pdf
+920 KB
+4.2.1. Java Persistence API и Hibernate (2017).pdf
+16.7 MB
+5.1.1. Git для профессионального программиста (2е издание, 2016).pdf
+7.2 MB
+5.2.0. Maven, JUnit Tutorial.pdf
+4.8 MB
+5.5.0. Введение в Docker (2017).pdf
+5.3 MB
+6.1.1. Изучаем Java EE7 (2014).pdf
+12.5 MB
+7.1.1. Spring в действии (3rd ed., 2013).pdf
+5.6 MB
+7.2.1. Java в облаке. Spring Boot, Spring Cloud, Cloud Foundry (2019).pdf
+
+
+
+
+
+набросал список тем в естественном порядке их освоения(как раз все то, что в любом случае придется изучать профессиональному программисту):
+1. Java Core Basic (как раз под эту сертификацию, к которой ты хочешь подготовить)
+2. Java Core Pro (тут можно детальнее про такие темы):
+	1) Multithreading
+	2) JMM
+	3) Reflection
+	4) Java Annotations
+	5) Java 9-15
+	6) различные утилиты и вспомогательные классы стандартной библиотеки)
+3. Java Patterns & Antipatterns(тут проектирования кода, приложений и архитектур можно детальнее коснуться)
+4. Java GUI's (про AWT, Swing, JavaFX, SWT, GWT, Vaadin или ZK например)
+5. Data Bases (вобщем о DB, их типах, как с ними работать):
+	1) SQL
+	2) JDBC & ORM (JPA, Hibernate, HQL, JPQL, JTA)
+	3) RDBMS (PostgreSQL, MySQL, Oracle, MS SQL Server)
+	4) Distributed DB (Hadoop, Splunk, Spark)
+	5) In-memory DB (VoltDB, MemSQL)
+	6) NoSQL (MongoDB, Neo4j, Cassandra, Apache Ignite)
+	7) DB Migration (Liquibase, Flyway)
+6. Java EE Tools (тут про основные инструменты, с которыми сталкиваются все, кто занимается Java профессионально):
+	1) VCS (Git, GitHUB)
+	2) XML (SAX, StAX, DOM, XPath, XSLT)
+	3) Build Automation (Maven, Graddle, Ant)
+	4) Testing (JUnit, TestNG, Mockito, TDD, JMH, JaCoCo, SonarQube)
+	5) Logging (Log4j, Slf4j)
+	6) Web Servers (Tomcat, Nginx, Apache Http Server)
+	7) App Servers (GlassFish, WebSphere, WildFly, WebLogic)
+	8) Cloud Services (Microsoft Azure, Amazon Web Services, Google Compute Engine)
+	9) DevOps (Docker, Kubernetes, Jenkins)
+	10) JMS (Java Mail, Message Brokers, Kafka, RabbitMQ, ActiveMQ)
+	11) Schedulers (Quartz, JCron)
+	12) Search & Index Systems (Lucene, Elasticsearch)
+	13) Office Systems (Apache POI, Apache PDFBox)
+	14) Security (Java Crypto API, Web Security)
+	15) Enterprise Brokers (ESB)
+	16) BPMN (BPEL, Activiti, jBPM)
+	17) BRMS (JSR-94, Drools, Jess, ILOG JRules, OpenRules)
+7. Java EE
+	1) Network (HTTP, TCP-IP, UDP, Sockets)
+	2) EJB (DI, CDI, JNDI, JSF)
+	3) Servlets (Filters, MVC, Struts)
+	4) JSON (mJSON, JSON-P, JsonPath, Gson, Jackson)
+	5) HTML (XHTML, CSS, AJAX, JS Basic)
+	6) JSP (JSTL, EL)
+	7) WS (UDDI, WSDL, ReST, SOAP, WADL)
+	8) Integration (MDB, JAX-WS, JAX-RS, JAXB, JAXR, SAAJ, JSR 224)
+	9) WebTools (Jsoup, Postman)
+8. Ну и Spring, разумеется, куда ж без него:
+	1) Spring Core (Beans, Context, DI, SPeL)
+	2) Spring AOP (Aspects, AspectJ)
+	3) Spring for DB (JDBCTemplates, Transactions, ORM, Spring Data JPA, OXM)
+	4) Spring MVC
+	5) Spring Testing
+	6) Spring Web Flow
+	7) Spring Security
+	8) Spring Integration (REST в Spring)
+	9) Spring JMS (RPC, JMX)
+	10) Spring-WS ("contact-first" Web Services)
+	11) Spring + EJB (Pitchfork, JNDI API)
+	12) Spring Batch
+	13) Spring Social
+	14) Spring Mobile
+	15) Spring Android
+	16) Spring-DM (Dynamic Modules, Gemini BluePrint)
+	17) Spring LDAP
+	18) Spring Rich Client (для любителей Swing)

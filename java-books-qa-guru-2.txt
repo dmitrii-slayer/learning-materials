@@ -1,0 +1,53 @@
+Начальный уровень
+Кэти Сьерра, Берт Бейтс - "Изучаем Java", 3-е издание (Head First Java)
+Брюс Эккель - "Философия Java" , 4-е полное издание (Thinking in Java)
+Кей Хорстман - "Java. Библиотека профессионала. Том 1 и 2" (Core Java)
+Брюс Эккель - "On Java 8"
+
+
+Повышаем уровень
+Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft - "Modern Java in Action"
+Joshua Bloch - "Effective Java", 3-е издание
+Krunal Patel, Nilang Patel - "Java 9 Dependency Injection"
+Koushik Kothagal - "Modular Programming in Java 9"
+Edward Sciore - "Java Program Design. Principles, Polymorphism, and Patterns"
+Maurice Naftalin, Philip Wadler - "Java Generics and Collections"
+
+
+Многопоточное программирование
+Brian Goetz, Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea - "Java Concurrency in Practice"
+Jeff Friesen - "Java Threads and the Concurrency Utilities (The Expert's Voice in Java)"
+Javier Gonzalez - "Mastering Concurrency Programming with Java 8"
+Javier Gonzalez - "Java 9 Concurrency Cookbook", 2nd Edition
+
+
+Функциональное программирование
+Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft - "Java 8 in Action, Lambdas Streams and Functional-Style Programming" // OR Modern Java in Action
+Dean Wampler - "Functional Programming for Java Developers"
+Venkat Subramaniam - "Functional Programming in Java (The Pragmatic Programmers)"
+Pierre-Yves Saumont - "Functional Programming in Java. How functional techniques improve your Java programs"
+Ralph Lecessi - "Functional Interfaces in Java"
+Michael Müller - "Java Lambdas and Parallel Streams"
+Toby Weston - "Learning Java Lambdas"
+Ричард Уорбэртон - "Лямбда-выражения в Java 8"
+
+
+Принципы написания хорошего кода
+Егор Бугаенко - "Элегантные объекты. Java Edition"
+Стив Круг - "Не заставляйте меня думать! Веб-юзабилити и здравый смысл"
+Стив Макконнелл - "Совершенный код", 2-е издание (мастер-класс)
+Роберт Мартин - "Идеальный программист"
+Роберт Мартин - "Чистая архитектура"
+Роберт Мартин - "Чистый код. Создание, анализ, рефакторинг"
+
+
+Алгоритмы
+Аллен Б. Доуни - "Алгоритмы и структуры данных. Извлечение информации на языке Java"
+Роберт Седжвик, Кевин Уэйн - "Алгоритмы на Java"
+Hemant Jain - "Problem Solving in Data Structures and Algorithms Using Java. The Ultimate Guide to Programming"
+
+
+Производительность
+Charlie Hunt, Binu John - "Java Performance"
+Charlie Hunt, Monica Beckwith, Poonam Parhar, Bengt Rutisson - "Java Performance Companion"
+Erik Ostermueller - "Troubleshooting Java Performance. Detecting Anti-Patterns with Open Source Tools"

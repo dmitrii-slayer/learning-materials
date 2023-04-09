@@ -7,6 +7,7 @@ Build a Modern Computer from First Principles: From Nand to Tetris (Project-Cent
 Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course) https://www.coursera.org/learn/nand2tetris2
 
 Algorithms and Data Structures:
+Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Y. Bhargava
 "Algorithms" by Robert Sedgewick and Kevin Wayne - Princeton University
 
 Coursera course: 
@@ -22,6 +23,19 @@ Head First Design Patterns
 Gang of four Design Patterns
 
 
+Networks:
+Difference between TCP and UDP https://javarevisited.blogspot.com/2014/07/9-difference-between-tcp-and-udp-protocol.html#axzz7wKhuD3pA
+
+
+https://github.com/ForrestKnight/open-source-cs#programming
+https://github.com/the-akira/Computer-Science-Resources
+https://everythingcomputerscience.com/
+
+https://www.tutorialspoint.com/tutorialslibrary.htm
+
 Books:
 Programming Languages: Application and Interpretation - Shriram Krishnamurthi https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/
 А. В. Столяров - Программирование: введение в профессию http://stolyarov.info/books/programming_intro
+Чистый код. Cоздание, анализ и рефакторинг" 2019 Мартин Р.
+принципы ООП - Вайсфельд "Объектно-ориентированное мышление"
+Automate boring stuff with Python (Автоматизация рутинных задач с помощью Python)
