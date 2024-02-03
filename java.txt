@@ -15,6 +15,9 @@ JavaRush International https://codegym.cc/
 
 	Udemy [EN]
 !###[Luffy Kunkka]Java Programming Masterclass updated to Java 17 (Tim Buchalaka) https://www.udemy.com/course/java-the-complete-java-developer-course/
+Master Object Oriented Design in Java - Homework + Solutions https://www.udemy.com/course/mastering-object-oriented-design-in-java/
+Java Design Patterns & SOLID Design Principles https://www.udemy.com/course/design-patterns-in-java-concepts-hands-on-projects/
+Java Lambda & Streams [Examples With Selenium WebDriver] https://www.udemy.com/course/java-8-and-beyond-for-testers/
 
 Oracle Java Tutorials http://docs.oracle.com/javase/tutorial/
 The official Documentation http://docs.oracle.com/javase/
@@ -31,7 +34,7 @@ Google Java Style Guide https://google.github.io/styleguide/javaguide.html
 Free Java Clean Code Beginner Course by Marcus Biel http://www.marcus-biel.com/java-beginner-course/
 
 https://developer.ibm.com/languages/java/
-
+https://www.codecademy.com/catalog/language/java
 
 	YouTube
 Alex Lee https://www.youtube.com/playlist?list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ
@@ -83,8 +86,14 @@ https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition
 
 https://github.com/ForrestKnight/open-source-cs#programming
 
+https://roadmap.sh/backend
+https://roadmap.sh/java
+
+
 Ru:
 !#Java для автоматизаторов https://comaqa.gitbook.io/java-automation/
+
+javabegin.ru Тимур Батыршинов https://www.youtube.com/@javabegin
 
 	Stepik:
 ##Java. Базовый курс https://stepik.org/course/187/syllabus (https://github.com/meanmail/java_base)
@@ -103,9 +112,9 @@ Stepik wishlist
 
 	YouTube
 + Follow the white rabbit - Курс основы Java https://www.youtube.com/playlist?list=PLEd6LarmkKnWkeHqu9_ngkHN-AnWQD6VM
-!#alishev Java для начинающих https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak
++alishev Java для начинающих https://www.youtube.com/playlist?list=PLAma_mKffTOSUkXp26rgdnC0PicnmnDak
 + Аве кодер
-
+ Core Java: МФТИ 2020 https://www.youtube.com/playlist?list=PLm2nrlGYLq1Uv1qYpqMC07JYoOXilEQZI
 Golovach Courses - Junior Java Developer February2014 AllinOne - https://www.youtube.com/playlist?list=PLoij6udfBncioun9-sBwpkpTit1SIhWko
 
 Изучаем Java (толковый канал, особенно плейлист Создай проект) https://www.youtube.com/channel/UCZ5hz-Ftta2AIquZoBmV9RA/playlists

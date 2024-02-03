@@ -1,12 +1,39 @@
+		Intro + Computer Architecture/Organization: 
 Exploring How Computers Work https://youtu.be/QZwneRb-zqA
-A Crash Course in Computer Science https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
-
+A Crash Course in Computer Science https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo 
 CS50: Introduction to Computer Science https://online-learning.harvard.edu/course/cs50-introduction-computer-science
+Code: The Hidden Language of Computer Hardware and Software (https://www.charlespetzold.com/books/ and https://www.codehiddenlanguage.com/)
+But How Do It Know? - The Basic Principles of Computers for Everyone, J. Clark Scott
+How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine, Matthew Justice
 
+The Elements of Computing Systems, 2nd edition
 Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) https://www.coursera.org/learn/build-a-computer
 Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course) https://www.coursera.org/learn/nand2tetris2
 
-Algorithms and Data Structures:
+undergrad level books:
+Computer Systems. A Programmer's Perspective
+Computer Organization and Design - Patterson and Hennessy
+
+graduate level:
+Computer Architecture: A Quantitative Approach, Patterson and Hennessy
+
+Ben Eater"s Build an 8-bit computer from scratch https://eater.net/8bit
+(If you actually get the kits to make the computer, make sure you read these: 
+What I Have Learned: A Master List Of What To Do https://www.reddit.com/r/beneater/comments/dskbug/what_i_have_learned_a_master_list_of_what_to_do/?utm_medium=android_app&utm_source=share
+Helpful Tips and Recommendations for Ben Eater's 8-Bit Computer Project https://www.reddit.com/r/beneater/comments/ii113p/helpful_tips_and_recommendations_for_ben_eaters/?utm_medium=android_app&utm_source=share
+As nobody can figure out how Ben's computer actually works reliably without resistors in series on the LEDs among other things!) 
+
+
+
+		Operating Systems:
+0. https://www.codecademy.com/learn/fundamentals-of-operating-systems
+1. OSTEP (Operating Systems: Three Easy Pieces) (comet book)
+2. Modern Operating Systems, Andrew S. Tanenbaum
+3. Operating Systems: Design and Implementation, Albert S. Woodhull, Andrew S. Tanenbaum
+4. Operating Systems Concepts (dino book)
+
+
+		Algorithms and Data Structures:
 Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Y. Bhargava
 "Algorithms" by Robert Sedgewick and Kevin Wayne - Princeton University
 
@@ -18,16 +45,19 @@ Coursebook
 
 Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer (freecodecamp 8h) https://youtube.com/watch?v=RBSGKlAvoiM&feature=shares
 
-Design Patterns:
+
+
+		OOP and Design Patterns:
 Head First Design Patterns
 Gang of four Design Patterns
+принципы ООП - Вайсфельд "Объектно-ориентированное мышление" - The Object-Oriented Thought Process, Matt Weisfeld
 
 
-Networks:
+		Networks:
 Difference between TCP and UDP https://javarevisited.blogspot.com/2014/07/9-difference-between-tcp-and-udp-protocol.html#axzz7wKhuD3pA
 
-
-https://github.com/ForrestKnight/open-source-cs#programming
+https://teachyourselfcs.com/ (https://github.com/ilmoi/teachyourselfCS-RU/blob/master/Teach_yourself_cs-2020-RU.md) - good
+https://github.com/ForrestKnight/open-source-cs#programming - good
 https://github.com/the-akira/Computer-Science-Resources
 https://everythingcomputerscience.com/
 
@@ -37,5 +67,10 @@ Books:
 Programming Languages: Application and Interpretation - Shriram Krishnamurthi https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/
 А. В. Столяров - Программирование: введение в профессию http://stolyarov.info/books/programming_intro
 Чистый код. Cоздание, анализ и рефакторинг" 2019 Мартин Р.
-принципы ООП - Вайсфельд "Объектно-ориентированное мышление"
+
 Automate boring stuff with Python (Автоматизация рутинных задач с помощью Python)
+
+списки с рекомендуемыми книгами:
+https://habr.com/ru/companies/cloud_mts/articles/346362/ 
+
+

@@ -10,3 +10,90 @@ https://devopswithkubernetes.com/
 
 Docker
 https://github.com/omerbsezer/Fast-Docker
+https://roadmap.sh/docker
+
+https://roadmap.sh/kubernetes
+
+https://github.com/milanm/DevOps-Roadmap
+https://roadmap.sh/devops
+https://roadmap.sh/devops?r=devops-beginner
+
+
+https://roadmap.sh/code-review
+
+https://roadmap.sh/postgresql-dba
+https://roadmap.sh/software-architect
+https://roadmap.sh/computer-science
+https://roadmap.sh/system-design
+https://roadmap.sh/sql
+https://roadmap.sh/software-design-architecture
+https://roadmap.sh/graphql
+https://roadmap.sh/qa
+
+
+Linux Distros to choose from: (https://unix.stackexchange.com/questions/633847/since-centos-8-will-reach-eol-in-2021-what-would-be-a-good-alternative-to-cento)
+CentOS Linux 7 or CentOS Stream 8+ 
+Fedora
+RHEL for individual users/for small workloads (https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel)
+Rocky Linux 
+AlmaLinux
+
+Rocky Linux ( June 2021) is a new community-maintained distro which is intended to replace CentOS, leaded by the original developer of CentOS. 
+Rocky Linux 8 is intended to be supported upto 2029. Basically CentOS with new name but not fully-fledged.
+
+https://blog.cloudlinux.com/announcing-open-sourced-community-driven-rhel-fork-by-cloudlinux
+AlmaLinux (March 2021) is also started for same intention, maintained by CloudLinux, a company which also has a commercial offering CloudLinux OS. 
+Their FAQ says "CloudLinux is committed to supporting AlmaLinux until 2029".
+
+
+
+Wake On Lan to start PC (+ Raspberri Pi with Home Assistant software?)
+Start Jenkins
+Start Openshift (job?)
+Build App job
+Deploy App job
+Start App job
+Stop App job
+Restart App job
+Delete app job (clean)
+Start Selenoid job
+Stop Selenoid job
+Restart Selenoid job
+Run autotests job
+
+
+Learn Linux:
+linuxjourney (+resources)
+overthewire - bandit
+
+linux survival
+learn linux tv - youtube + https://www.learnlinux.tv/
+
+tutorialLinux - youtube (beginner to sysadm course + more)
+
+freecodecamp linux operating system - crash course for beginners - youtube
+freecodecamp introduction to linux - youtube
+
+https://developer.ibm.com/series/learn-linux-101/
+https://training.linuxfoundation.org/training/introduction-to-linux/
+
+https://linuxcommand.org/
+https://github.com/veltman/clmystery
+
+Linux resources from linuxjourney:
+How Linux Works: What Every Superuser Should Know
+UNIX and Linux System Administration Handbook, 4th Edition
+Linux Command Line and Shell Scripting Bible
+The Linux Programming Interface: A Linux and UNIX System Programming Handbook
+
+Other Linux resources:
+Book - The Linux Command Line by William Shotts
+https://linuxupskillchallenge.org/ and https://www.reddit.com/r/linuxupskillchallenge/
+
+the bash guide - guide.bash.academy
+
+
+Linux books:
+1. Курячий и Маслинский - Linux
+2. Linux. Карманный справочник
+...

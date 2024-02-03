@@ -1,0 +1,4 @@
+sql island
+sql murder mystery
+
+Database Management Essentials  https://imp.i384100.net/kjvDMn (https://www.coursera.org/learn/database-management) Instructor: Michael Mannino 

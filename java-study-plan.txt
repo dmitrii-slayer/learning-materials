@@ -51,7 +51,7 @@ Maven, Gradle
 
 Spring
 Видео-курс по Spring: https://clck.ru/atHDp alishev - Spring Framework
-Документация (eng): https://clck.ru/YkRdA
+Документация (eng): https://docs.spring.io/spring-framework/docs/current/reference/html/
 Статьи: https://clck.ru/atHRj https://habr.com/ru/post/490586/
 
 JPA/Hibernate
@@ -65,7 +65,8 @@ https://easyjava.ru/data/jpa/, https://clck.ru/atHSQ (https://javarush.com/group
 Статьи по JUnit: 
 https://javarush.com/groups/posts/605-junit, https://habr.com/ru/company/otus/blog/596033/, https://habr.com/ru/post/120101/
 Видео:
-https://clck.ru/atHSq, https://clck.ru/atHTG
+https://clck.ru/atHSq - Spring Boot: модульное тестирование и подмена (mock object) от letsCode(https://youtu.be/QrSR1fm9JwA?feature=shared),
+https://clck.ru/atHTG - Spring Boot: интеграционное тестирование с Spring Testing от letsCode(https://youtu.be/Lnc3o8cCwZY?feature=shared)
 Отличный канал с уроками, кстати ^
 
 Бонус

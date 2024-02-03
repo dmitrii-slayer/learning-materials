@@ -1,7 +1,7 @@
 Shenme shihou jieshu le - resource
 26.03 - Follow the white rabbit - YouTube
 07.04 - Ave Coder - YouTube
-
+30.05 - alishev - youtube
 
 
 
@@ -13,7 +13,11 @@ Shenme shihou jieshu le - resource
 
 
 MOOC:
-Java I
+Java I - 25.04
 28.03 - Part 1
 02.04 - Part 2
 09.04 - Part 3
+13.04 - Part 4
+16.04 - Part 5
+23.04 - Part 6
+25.04 - Part 7
