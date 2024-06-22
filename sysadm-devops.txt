@@ -87,8 +87,9 @@ Linux Command Line and Shell Scripting Bible
 The Linux Programming Interface: A Linux and UNIX System Programming Handbook
 
 Other Linux resources:
-Book - The Linux Command Line by William Shotts
+Book - The Linux Command Line by William Shotts http://linuxcommand.org/tlcl.php or https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/330385/TLCL-19.01.pdf
 https://linuxupskillchallenge.org/ and https://www.reddit.com/r/linuxupskillchallenge/
+linux from scratch (LFS)
 
 the bash guide - guide.bash.academy
 

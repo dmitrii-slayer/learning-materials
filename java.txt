@@ -1,5 +1,9 @@
 Java
 + - finished, ... - in progress
+# - priority 1 (high)
+## - priority 2 (medium)
+### - priority 3 (low)
+! - important/probably a good resource
 !# ##MOOC Object Oriented Programming with Java from the University of Helsinki https://java-programming.mooc.fi/
 
 ###Hyperskill (project-based) https://hyperskill.org/tracks?category=2
@@ -59,14 +63,6 @@ https://exercism.org/tracks/java
 
 Better Java https://github.com/cxxr/better-java
 
-	Spring
-Chad Darby's course on udemy https://www.udemy.com/course/spring-hibernate-tutorial/
-Spring in Action by Craig Walls
-https://spring.io/guides
-
-Ru:
-Заур Трегулов - Spring для начинающих https://www.udemy.com/course/spring-framework/
-alishev - Spring - Полный курс. Boot, Hibernate, Security, REST. https://www.udemy.com/course/spring-alishev/
 
 
 MIT Software Construction https://ocw.mit.edu/courses/6-005-software-construction-spring-2016/
@@ -90,6 +86,8 @@ https://roadmap.sh/backend
 https://roadmap.sh/java
 
 
+https://github.com/zhukovsd/java-backend-learning-course
+
 Ru:
 !#Java для автоматизаторов https://comaqa.gitbook.io/java-automation/
 
@@ -101,7 +99,6 @@ javabegin.ru Тимур Батыршинов https://www.youtube.com/@javabegin
 ##Разработка веб сервиса на Java (часть 2) https://stepik.org/course/186/promo
 Adaptive Java https://stepik.org/course/2403/promo
 Летняя Java школа https://stepik.org/course/10498/promo
-#... Легкий старт в Java. Вводный курс для чайников https://stepik.org/course/90684/promo
 Stepik wishlist
 
 	Udemy [RU]:

@@ -52,12 +52,13 @@ Maven, Gradle
 Spring
 Видео-курс по Spring: https://clck.ru/atHDp alishev - Spring Framework
 Документация (eng): https://docs.spring.io/spring-framework/docs/current/reference/html/
-Статьи: https://clck.ru/atHRj https://habr.com/ru/post/490586/
+Статьи: https://clck.ru/atHRj (https://proselyte.net/tutorials/spring-tutorial-full-version/) https://habr.com/ru/post/490586/
 
 JPA/Hibernate
-Видео-курс 1: https://clck.ru/atHRw javabegin - Основы Hibernate + Java/MySQL (архив) - YouTube
-Видео-курс 2: https://clck.ru/atHS8 javabegin -  Основы Hibernate с нуля (2021) - YouTube
+Видео-курс 1: https://clck.ru/atHRw javabegin - Основы Hibernate + Java/MySQL (архив) - YouTube https://www.youtube.com/watch?v=xybmKzQ5s4c&list=PL8X2nqRlWfabWFN81Zi4vl30cZsdyxt6e
+Видео-курс 2: https://clck.ru/atHS8 javabegin -  Основы Hibernate с нуля (2021) - YouTube https://www.youtube.com/playlist?list=PL8X2nqRlWfabN7rXPD7KDfXd8jFhAmkTL
 Книга: Java Persistance with Hibernate
+со 137 по 162 страницы книги “Изучаем Java EE 7”, автор Э. Гонсалвес (https://vk.com/wall-54530371_149384). Глава имеет говорящее название “Java Persistence API
 Статьи: 
 https://easyjava.ru/data/jpa/, https://clck.ru/atHSQ (https://javarush.com/groups/posts/2259-jpa--znakomstvo-s-tekhnologiey), https://www.baeldung.com/learn-jpa-hibernate (eng)
 
@@ -77,8 +78,6 @@ https://habr.com/ru/post/132241/, https://www.baeldung.com/, https://habr.com/ru
 Статьи: 
 https://proglib.io/p/algorithms-structures-learn, https://clck.ru/atHTt, https://proglib.io/p/8-good-habits,
 https://proglib.io/p/open-source-for-novice, https://tproger.ru/translations/where-to-find-ideas/, https://proglib.io/p/27-puzzle-websites-to-sharpen-your-skills
-
-
 
 
 Спасибо за видео и твою работу!!!
@@ -111,3 +110,6 @@ P.S. по ощущениям, после 30 лет книжки, просмот�
 _______
 Теперь по задачам. Смотрите, есть такой менторинг от rs.school (это колобарация епама, джетбрейнса и тд), вот они выкладывают свои задания и требования на гитхабе в своем репозитории. Вроде как спринга там нет, но есть андроид (смотря какое ваше направление). Так, если сказать навскидку, то нужно в начале делать такие задачи как "Аннограмма", "Деление в столбик", и задачи которые хорошо тренят коллекции, стримы (напишите мне в личку). Это база которая дается на всех курсах с метором, в том числе и на рс скул. Вот такие большие задачи прокачивают базу джавы. Там всего задачи 3-4 таких. Но вам уже на задачах нужен ментор, тот к кому вы постоянно будете приставать. Так будет быстро и эффективно. Без ментора будет медленно, прям очень медленно. Ментора, в принципе, можно найти на сайте профи.ру, на сайтах фриланса так же, ну и на линкедин (или знакомства). 
 Далее идет уже проект (мини проекты) на спринге. Если это андроид - смело можете брать задачи рс.скул, если это спринг - здесь придется поискать в инете что можно сделать модульно, или поспрашивать менторов. Я так же заходила просто на апворк (там лучше описывают задачи) и смотрела что можно сделать. Некоторые челы там прям давали полноценные интересные задачи. Еще я смотрела на хх тестовые задачи. Это тоже весьма похоже на полноценные мини-проекты.
+
+
+https://www.youtube.com/watch?v=ytvZC9wtHmg  Как стать Java разработчиком с нуля ? (Дорожная карта) | Что должен знать java junior? 

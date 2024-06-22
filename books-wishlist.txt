@@ -1,0 +1,89 @@
+		Java
+Head First Java, 3rd edition
+Cay Horstmann - Core Java for the Impatient
+Core Java - Horstsmann
+Introduction to Java Programming by Y. Daniel Liang
+Deitel
+TCP/IP Sockets in Java: Practical Guide for Programmers (The Practical Guides) - Kenneth L. Calvert, Michael J. Donahoo
+Java: The Complete Reference
+Java: A Beginner's guide
+Thinking in Java, by Bruce Eckel 4th ed 
+
+Повышаем уровень
+Effective Java, 3rd ed
+Java Concurrency in Practice
+Java Generics and Collections
+Modern Java in Action
+
+
+Элегантные объекты. Java Edition
+
+
+		Spring
+
+Spring in Action (Spring в действии)
+Spring Microservices in Action
+
+		Microservices
+
+
+
+		Testing
+	
+	
+	
+	
+		Usability
+The Inmates Are Running The Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity (Психбольница в руках пациентов)
+Don't Make Me Think (Не заставляйте меня думать! Веб-юзабилити и здравый смысл)
+
+		Code + Career:
+Code Complete (Совершенный код, 2 издание)
+  Robert Martin:
+The Clean Coder. A Code of Conduct for Professional Programmers (Идеальный программист. Как стать профессионалом разработки ПО)
+Clean Architecture. A Craftsman's Guide to Software Structure and Design (Чистая архитектура. Искусство разработки программного обеспечения)
+Clean Code. A Handbook of Agile Software Craftsmanship (Чистый код. Создание, анализ, рефакторинг)
+Clean Craftsmanship. Disciplines, Standards, and Ethics (Идеальная работа. Программирование без прикрас)
+Agile Software Development. Principles, Patterns, and Practices (Гибкая разработка программ на Java и C++. Принципы, паттерны и методики)
+
+Refactoring: Improving the Design of Existing Code
+
+		Design Patterns:
+Head First Design Patterns
+Design Patterns by the Gang of Four
+
+		CS Intro/General Computing
+Computer Science Distilled
+
+Code: The Hidden Language of Computer Hardware and Software
+Gödel, Escher, Bach: An Eternal Golden Braid by Douglas R Hofstadter
+But How Do It Know? - The Basic Principles of Computers for Everyone by J. Clark Scott. 
+"Algorithms + Data Structures = Programs" by Niklaus Wirth. 
+The Pattern on the Stone: The Simple Ideas that Make Computers Work by W. Daniel Hillis
+
+		Computer Architecture/Organization/Systems
+The Elements of Computing Systems, 2nd edition Nisan and Schocken (Nand2Tetris course book)
+
+undergrad level books:
+Computer Systems. A Programmer's Perspective 
+Computer Organization and Design - Patterson and Hennessy
+Computer Organization and Design Fundamentals, David L. Tarnoff, Available from http://faculty.etsu.edu/tarnoff/138292/
+
+graduate level:
+Computer Architecture: A Quantitative Approach, Patterson and Hennessy
+
+		Operating Systems
+1. OSTEP (Operating Systems: Three Easy Pieces) (comet book) (https://habr.com/ru/articles/446340/)
+2. Modern Operating Systems, Andrew S. Tanenbaum
+3. Operating Systems: Design and Implementation, Albert S. Woodhull, Andrew S. Tanenbaum
+4. Operating Systems Concepts (dino book)
+5. Operating systems and middleware: Supporting controlled interaction, Hailperin, M. (2019) https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/330385/osm-rev1.3.1.pdf
+
+
+		Data Structures and Algorithms
+"Algorithms" by Robert Sedgewick and Kevin Wayne - Princeton University http://algs4.cs.princeton.edu/home/ (+coursera course)
+The Algorithm Design Manual by Steven Skiena
+
+		Networks:
+Computer Networking: A Top-Down Approach by Jim Kurose 
+  (Компьютерные сети. Нисходящий подход, Джеймс Ф. Куроуз, Кит В. Росс)

@@ -5,14 +5,18 @@ CS50: Introduction to Computer Science https://online-learning.harvard.edu/cours
 Code: The Hidden Language of Computer Hardware and Software (https://www.charlespetzold.com/books/ and https://www.codehiddenlanguage.com/)
 But How Do It Know? - The Basic Principles of Computers for Everyone, J. Clark Scott
 How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine, Matthew Justice
+Manga Guide to Microprocessors
 
-The Elements of Computing Systems, 2nd edition
+The Elements of Computing Systems, 2nd edition Nisan and Schocken
 Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course) https://www.coursera.org/learn/build-a-computer
 Build a Modern Computer from First Principles: Nand to Tetris Part II (project-centered course) https://www.coursera.org/learn/nand2tetris2
 
 undergrad level books:
 Computer Systems. A Programmer's Perspective
 Computer Organization and Design - Patterson and Hennessy
+Computer Organization and Design Fundamentals, David L. Tarnoff, Available from http://faculty.etsu.edu/tarnoff/138292/
+
+Structured Computer Organization, Andrew S. Tanenbaum
 
 graduate level:
 Computer Architecture: A Quantitative Approach, Patterson and Hennessy
@@ -27,11 +31,11 @@ As nobody can figure out how Ben's computer actually works reliably without resi
 
 		Operating Systems:
 0. https://www.codecademy.com/learn/fundamentals-of-operating-systems
-1. OSTEP (Operating Systems: Three Easy Pieces) (comet book)
+1. OSTEP (Operating Systems: Three Easy Pieces) (comet book) (https://habr.com/ru/articles/446340/)
 2. Modern Operating Systems, Andrew S. Tanenbaum
-3. Operating Systems: Design and Implementation, Albert S. Woodhull, Andrew S. Tanenbaum
+3. Operating Systems: Design and Implementation, Albert S. Woodhull, Andrew S. Tanenbaum (minix book)
 4. Operating Systems Concepts (dino book)
-
+5. Operating systems and middleware: Supporting controlled interaction, Hailperin, M. (2019) https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/330385/osm-rev1.3.1.pdf
 
 		Algorithms and Data Structures:
 Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Y. Bhargava
@@ -72,5 +76,8 @@ Automate boring stuff with Python (Автоматизация рутинных �
 
 списки с рекомендуемыми книгами:
 https://habr.com/ru/companies/cloud_mts/articles/346362/ 
+https://www.reddit.com/r/learnprogramming/comments/p83r66/programming_books_every_developer_should_read/
+https://www.reddit.com/r/learnprogramming/comments/dd6e0g/what_are_your_favorite_books_on_general_cs/
+https://www.reddit.com/r/learnprogramming/comments/8ukniw/books_that_changed_the_way_you_understand/
 
 

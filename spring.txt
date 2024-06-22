@@ -2,3 +2,13 @@ udemy spring для начинающих https://www.udemy.com/course/spring-fra
 https://github.com/progerSapog/Udemy-Spring-for-beginners
 
 https://roadmap.sh/spring-boot
+
+Spring Framework - Laurentiu Spilca https://www.youtube.com/playlist?list=PLOk4ziGG9MBdlyxIDw5wYvj6QZTQ22wvK
+
+Chad Darby's course on udemy https://www.udemy.com/course/spring-hibernate-tutorial/
+Spring in Action by Craig Walls
+https://spring.io/guides
+
+Ru:
+Заур Трегулов - Spring для начинающих https://www.udemy.com/course/spring-framework/
+alishev - Spring - Полный курс. Boot, Hibernate, Security, REST. https://www.udemy.com/course/spring-alishev/
