@@ -12,3 +12,14 @@ https://spring.io/guides
 Ru:
 Заур Трегулов - Spring для начинающих https://www.udemy.com/course/spring-framework/
 alishev - Spring - Полный курс. Boot, Hibernate, Security, REST. https://www.udemy.com/course/spring-alishev/
+
+
+1. Что такое Dependency Injection? Как он реализуется в Spring?
+2. Какие задачи решает фреймворк Spring Boot?
+3. Какие есть основные аннотации в Spring Boot?
+4. Что такое Bean?
+5. Что такое JavaConfig?
+6. Какие есть способы загрузки конфигурации в Spring Boot?
+7. Что такое Spring Profiles? Для чего они используются?
+8. Для чего нужен ComponentScan?
+9. Аннотации @Component, @Service, @Repository
