@@ -22,14 +22,49 @@
     - [ ] Ли Коупленд, «A Practitioner’s Guide to Software Test Design»
     - [ ] Рон Паттон, “Software testing”
     - [ ] Сэм Канер, Джек Фолк, Енг Кек Нгуен. - Тестирование программного обеспечения. Фундаментальные концепции менеджмента бизнес-приложений
+
+  ### DEV Testing
+    - [ ] [JUnit 5 - dmdev (YouTube playlist)](https://youtube.com/playlist?list=PLnh8EajVFTl5AqvBosxUefReW4nC35P0x&feature=shared)
+    - [ ] JUnit in Action
+    - [ ] Принципы юнит-тестирования - В. Хориков
 ## Database
-    - [ ] Stepik введение в базы данных
+    - [ ] [(Stepik) Введение в базы данных - Digital Solutions Studio](https://stepik.org/125212) 
     - [x] Манга "Базы Данных" - Мана Такахаси, Сёко Адзума (Занимательное программирование)
-    - [ ] ...
-
-
+    - [ ] Database Management Essentials  https://imp.i384100.net/kjvDMn (https://www.coursera.org/learn/database-management) Instructor: Michael Mannino 
+    - [ ] sql island
+    - [ ] sql murder mystery
+    - [ ] https://lost-at-sql.therobinlord.com/
+    - [ ] https://selectstarsql.com/
+    - [ ] https://teachyourselfcs.com/#databases
+    - [ ] https://www.youtube.com/@CS186Berkeley/playlists
+    - [ ] [Architecture of a Database System](https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf)
+    - [ ] [Readings in Database Systems - P. Bailis, J. Hellerstein, M. Stonebraker](http://www.redbook.io/)
+    - [ ] [Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)
+    - [ ] [Database Management Systems by Ramakrishnan and Gehrke](https://smile.amazon.com/Database-Management-Systems-Raghu-Ramakrishnan/dp/0072465638/)
     - [ ] SQL: быстрое погружение - Уолтер Шилдс
     - [ ] Изучаем SQL - Алан Болье
+    - [ ] Материалы с postgrespro (книги и курсы)
+    - [ ] Андрей Созыкин на ютубе
+    - [ ] 7 баз данных за 7 недель (2018 second edition (only eng))
+    - [ ] Рефакторинг баз данных: эволюционное проектирование (Refactoring Databases: Evolutionary Database Design) (https://databaserefactoring.com/)
+    - [ ] ...
+
+  ### NoSQL
+    - [ ] graph databases book
+    - [ ] Neo4j in Action 
+    - [ ] https://neo4j.com/books/ + https://graphacademy.neo4j.com/ (spring data neo4j coming soon + other courses)
+    - [ ] Graph Databases in Action - Dan Bechberger , Josh Perryman
+    - [ ] The Practitioner′s Guide to Graph Data: Applying Graph Thinking and Graph Technologies to Solve Complex Problems 
+
+    Графовые БД / расширения:
+    neo4j with dozerdb plugin, arangodb, nebula graph, janusgraph, arcadedb, Postgres with Apache AGE (a graph extension), hugegraph (baidu-apache-incubator/fork of janusgraph), cayley, dgraph(graphql) and maybe ONgDB, surrealdb
+
+## Git
+  - [ ] Наиль Алишев Git. Для начинающих и не только - alishev
+  - [ ] [Git: курс - JavaScript.ru (YouTube playlist)](https://youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb&feature=shared)
+  - [ ] https://learngitbranching.js.org/ 
+  - [ ] 15 ресурсов по Git. Что почитать/посмотреть? (https://habr.com/ru/companies/yandex_praktikum/articles/768492/)
+  - [ ] Git для профессионального программиста - Чакон Скотт, Штрауб Бен (Pro Git) https://git-scm.com/book/en/v2 и https://git-scm.com/book/ru/v2
 
 ## Java
   ### Java SE
@@ -42,9 +77,16 @@
   - [ ] [Java. Functional Programming (Stepik)](https://stepik.org/course/91497/promo)
   - [ ] Java 8 Lambdas: Pragmatic Functional Programming by Richard Warburton
   - [ ] Java Concurrency in practice (Trains book)
+  - [ ] https://sysout.ru/core-java/
+  - [ ] Java MOOC
+  - [ ] Java: Полный Гайд по Обновлениям 8-22 Версий https://www.youtube.com/watch?v=sDeuyD7MhVc
+  - [ ] CSC Тагир Валеев
+  - [ ] [Core Java: МФТИ 2020 - Иван Пономарёв](https://youtube.com/playlist?list=PLm2nrlGYLq1Uv1qYpqMC07JYoOXilEQZI&feature=shared)
+  - [ ] [Java с нуля - Ablazzing (YouTube playlist)](https://youtube.com/playlist?list=PLw265NhvhLXHptSyZ93dFd_7AoPnJTF1T&feature=shared)
   
   ### Java EE
   - [ ] [Java EE для начинающих  - alishev (YouTube playlist)](https://www.youtube.com/playlist?list=PLAma_mKffTOTTFqIkLXgHqVuL6xJhb0mr)
+  - [ ] [Servlets - letsCode (YouTube playlist)](https://www.youtube.com/playlist?list=PLU2ftbIeotGoQGD51e0qb98lE0xhgNDF1)
   - [x] [Кофе-брейк #119. Введение в Java Enterprise Edition (Java EE) - javarush](https://javarush.com/groups/posts/3814-kofe-breyk-118-vvedenie-v-java-enterprise-edition-java-ee)
   - [ ] [Введение в Java EE - javarush](https://javarush.com/groups/posts/2637-vvedenie-v-java-ee) 
   - [ ] Изучаем Java EE 7
@@ -58,16 +100,28 @@
   - [ ] [Учебник Jakarta EE.pdf](https://www.bychkov.name/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA%20Jakarta%20EE.pdf)
   - [ ] Jakarta EE Tutorial https://eclipse-ee4j.github.io/jakartaee-tutorial/
 
+  #### J2EE Patterns
+    - 
+
 ## Spring
   - [x] Spring для начинающих - Заур Трегулов
   - [ ] Spring... - alishev
   - [ ] Spring быстро (Spring Start Here) - Laurentiu Spilca
   - [ ] Spring playlist - Laurentiu Spilca (https://www.youtube.com/playlist?list=PLOk4ziGG9MBdlyxIDw5wYvj6QZTQ22wvK)
-  - [ ] «Spring Boot 2: лучшие практики для профессионалов» - Фелипе Гутьеррес
-  - [ ] "Spring Boot по-быстрому. Создаём облачные приложения на Java и Kotlin" - Марк Хеклер
+  - [ ] «Spring Boot 2: лучшие практики для профессионалов» - Фелипе Гутьеррес (Pro Spring Boot 2)
+  - [ ] "Spring Boot по-быстрому. Создаём облачные приложения на Java и Kotlin" (Spring Boot: Up and Running: Building Cloud Native Java and Kotlin Applications) - Марк Хеклер
   - [ ] Spring в действии
   - [ ] Микросервисы Spring в действии
   - [ ] Spring Security in Action - Laurentiu Spilca
+  - [ ] [sysout ](https://sysout.ru/spring/)
+  - [ ] Spring Framework: Фундаментальные основы https://stepik.org/course/138316/promo
+  - [ ] Что такое Spring Framework? От внедрения зависимостей до Web MVC https://habr.com/ru/articles/490586/
+  - [ ] Spring - dmdev
+  - [ ] https://github.com/spring-office-hours/resources-learning-spring
+  - [ ] Learning Spring Boot 3.0. Learning Spring Boot 3.0 Simplify the development of production-grade applications using Java and Spring - Greg Turnquist
+  - [ ] Pro Spring Boot 3 - Фелипе Гутьеррес 
+  - [ ] Introducing Spring Framework 6 - Фелипе Гутьеррес 
+
 
   - https://www.youtube.com/@laurspilca/playlists
   - hibernate - JPA/Hibernate Fundamentals 2023 Laur Spilca https://www.youtube.com/playlist?list=PLEocw3gLFc8UYNv0uRG399GSggi8icTL6
@@ -79,8 +133,17 @@
 
 ## JPA/Hibernate
   - [ ] Java Persistence with Hibernate
+  - [ ] Java Persistence with Spring Data and Hibernate
   - [ ] Vlad Mihalcea
   - [ ] кто-то еще был..тоже какой-то блог (вроде это https://thorben-janssen.com/best-practices-for-many-to-many-associations-with-hibernate-and-jpa/)
+
+  ### Транзакции
+    - [ ] @Transactional в Spring под капотом https://habr.com/ru/articles/532000/
+    - [ ] Уровни изолированности транзакций для самых маленьких - Maxilect https://habr.com/ru/companies/maxilect/articles/785960/
+    - [ ] Уровни изолированности транзакций для самых маленьких - slava-a https://habr.com/ru/articles/469415/
+
+    - [ ] Эффективное управление транзакциями в Spring https://habr.com/ru/companies/otus/articles/431508/
+    - [ ] [Back to basics: Isolation Levels In MySQL](https://web.archive.org/web/20201001121750/https://mydbops.wordpress.com/2018/06/22/back-to-basics-isolation-levels-in-mysql/)
 
 ## ООП + Паттерны + Рефакторинг
     - [x] "Погружение в паттерны в проектирования" - А. Швец (refactoring guru - design patterns)
@@ -90,21 +153,37 @@
     - [ ] "Head First. Паттерны проектирования" - Э. Фримен, Э. Робсон, К. Сиерра, Б. Берт (Head First Design Patterns)
     - [ ] Refactoring guru - рефакторинг
     - [ ] "Рефакторинг с использованием шаблонов" - Джошуа Кериевски
-    - [ ] "Рефакторинг: улучшение дизайна существующего кода" - Кент Бек и Мартин Фаулер
+    - [ ] "Рефакторинг: улучшение дизайна существующего кода" - Кент Бек и Мартин Фаулер (в 1ом издании примеры на java?)
     - [ ] «Эффективная работа с устаревшим кодом», Майкл Физерс (Working Effectively with Legacy Code )
     - [ ] «Чистый код» - Роберт Мартин (Clean Code)
     - [ ] "Совершенный код" - С. Макконнелл (Code Complete)
     - [ ] "Шаблоны корпоративных приложений" - М. Фаулер (PoEAA/Patterns of Enterprise Application Architecture)
 
+    - [ ] (Head First) Объектно-ориентированный анализ и проектирование (Head First Object-Oriented Analysis and Design) - Маклафлин Бретт, Поллайс Гэри, Уэст Дэйв
+    - [ ] "Применение UML 2.0 и шаблонов проектирования. Введение в объектно-ориентированный анализ, проектирование и итеративную разработку" (GRASP book) (Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development) - Крэг Ларман 
+    - [ ] UML 2.0. Объектно-ориентированное моделирование и разработка | Рамбо Джеймс, Блаха М. 
+    - [ ] UML 2 и Унифицированный процесс, практический объектно-ориентированный анализ и проектирование. 2-е издание | Арлоу Джим, Нейштадт Айла 
+    - [ ] Get Your Hands Dirty on Clean Architecture - Tom Hombergs
+    - [ ] Designing Hexagonal Architecture with Java - Davi Vieira
+    - [ ] Hands-On Software Architecture with Java - Giuseppe Bonocore
+    - [ ] Паттерны проектирования API
+
+## REST
+  - [ ] https://www.kennethlange.com/books/The-Little-Book-on-REST-Services.pdf
+  - [ ] https://restfulapi.net/resource-naming/
+  - [ ] https://martinfowler.com/articles/richardsonMaturityModel.html
+
 ## Микросервисы
+  - [ ] Microservices in Action
   - [ ] "Микросервисы. Паттерны разработки и рефакторинга" - Крис Ричардсон
   - [ ] "Создание микросервисов" - Сэм Ньюмен (https://habr.com/ru/articles/499386/)
   - [ ] [Book summary: Building Microservices (2nd Edition)] (https://blog.dornea.nu/2022/08/10/book-summary-building-microservices-2nd-edition/)
   - [ ] Конспект книги «Создание микросервисов» (https://habr.com/ru/articles/499386/) 
+  - [ ] что-то еще на портале microsoft было
 
 ## Kafka
-  - [ ] Kafka в действии (Kafka in Action) - Дилан Скотт, Виктор Гамов, Дейв Клейн
   - [ ] I <3 Logs by Jay Kreps, creator of Kafka. Short, but explains the log-based architecture very well. https://www.confluent.io/ebook/i-heart-logs-event-data-stream-processing-and-data-integration
+  - [ ] Kafka в действии (Kafka in Action) - Дилан Скотт, Виктор Гамов, Дейв Клейн
   - [ ] Kafka, the Definitive Guide - there's a v2 in the works, but the current v1 is still worth it's weight in gold. https://www.confluent.io/resources/kafka-the-definitive-guide-v2/
   - [ ] https://developer.confluent.io/learn-kafka/ 
   - [ ] https://developer.confluent.io/learn/ 
@@ -115,18 +194,90 @@
   - [ ] Effective Kafka - Эмиль Кутанов
   - [ ] https://kafka.apache.org/documentation/ + https://kafka.apache.org/documentation/#implementation 
   - [ ] https://softwaremill.com/kafka-visualisation/ - визуализация
+  - [ ] [Apache Kafka - JavaGuru (YouTube playlist)](https://youtube.com/playlist?list=PLt91xr-Pp57Q50WsXz9r-zmxy5ceu_hp_&feature=shared)
+
+  - [x] [Про Kafka (основы) - Владимир Богдановский](https://www.youtube.com/watch?v=-AZOi3kP9Js) (очень хорошее видео)
+  - [ ] [Лучший Гайд по Kafka для Начинающих За 1 Час - Vlad Mishustin](https://www.youtube.com/watch?v=hbseyn-CfXY)
+  - [ ] [Kafka - базовые понятия, топики, партиции, реплики и т.д. - Лев Следопыт](https://www.youtube.com/watch?v=4WZJBDm2Bas)
+  - [ ] [Партиционирование в Kafka: что это такое, как работает механизм хранения данных в Kafka + кейсы - MediaSoft](https://www.youtube.com/watch?v=JLY89MVjJNU)
+  - [ ] [Типичные ошибки при работе с Apache Kafka — Виктор Корейша](https://www.youtube.com/watch?v=FGETRVOPdiA)
+  - [ ] [Григорий Кошелев — Kafka: от теории к практике](https://www.youtube.com/watch?v=ghKnX5fuW5s)
+  - [ ] [Григорий Кошелев — Когда всё пошло по Кафке](https://www.youtube.com/watch?v=A_yUaPARv8U)
+  - [ ] [Григорий Кошелев — Когда всё пошло по Кафке 2: Разгоняем продьюсеров ](https://www.youtube.com/watch?v=zMLfxztAVlo)
+  - [ ] [Григорий Кошелев — Когда всё пошло по Кафке 3: Apache Kafka и Consumer](https://www.youtube.com/watch?v=NXU_F_7STSM)
+  - [ ] [Apache Kafka: погружение на 45 минут. Григорий Кошелев, Контур, ведущий разработчик](https://www.youtube.com/watch?v=V5t_3RxBals)
+  - [ ] [Что сказать на собеседовании про обработку топика Kafka - Андрей Суховицкий](https://www.youtube.com/watch?v=vrdNDEyrvPA)
+  - [ ] [Exactly-once Kafka | Артём Кулешов | Golang Meetup 2023 | СберМаркет Tech](https://youtu.be/fGP0qoB78Nw?feature=shared)
+  - [ ] [Межсервисное взаимодействие. Очереди сообщений - Ruby Russia club](https://youtu.be/zdKziDsFjvg?feature=shared)
+  - [ ] [Как правильно выбирать очередь / Владимир Перепелица (Mail.Ru Group)](https://youtu.be/hEC8CX8Drac?feature=shared)
+  - [ ] [Брокер сообщений Kafka в условиях повышенной нагрузки / Артём Выборнов (Rambler&Co)](https://youtu.be/BtmYjTO1EpI?feature=shared)
+  - [ ] [Гарантии доставки на примере Apache Kafka | Никита Ешкеев](https://youtu.be/8TkaVaUzWPs?feature=shared)
+  - [ ] [Apache Kafka Architecture - Anton Putra](https://youtu.be/IsgRatCefVc?feature=shared) [3 video playlist](https://youtube.com/playlist?list=PLiMWaCMwGJXlL8-E-xu8RBwyC5YfS3V5e&feature=shared)
+  - [ ] [Общение микросервисов между собой | Java | Kafka на практике - Nerzon](https://youtu.be/lxTDkejd6xo?feature=shared)
+  - [ ] [Kafka for beginners - Java Techie (YouTube playlist)](https://youtube.com/playlist?list=PLVz2XdJiJQxwpWGoNokohsSW2CysI6lDc&feature=shared)
+  - [ ] [Apache Kafka for Beginners - Stephane Maarek (YouTube playlist)](https://youtube.com/playlist?list=PLt1SIbA8guusxiHz9bveV-UHs_biWFegU&feature=shared)
+  - [ ] [What is Apache Kafka®? - Confluent](https://youtu.be/06iRM1Ghr1k?feature=shared)
+  - [ ] [Course | Apache Kafka Fundamentals - Confluent (YouTube playlist)](https://youtube.com/playlist?list=PLa7VYi0yPIH2PelhRHoFR5iQgflg-y6JA&feature=shared)
+  - [ ] [Apache Kafka Tutorials | Kafka 101 - Confluent (YouTube playlist)](https://youtube.com/playlist?list=PLa7VYi0yPIH0KbnJQcMv5N9iW8HkZHztH&feature=shared)
+  - [ ] [Spring Framework and Apache Kafka® Tutorials | Spring for Apache Kafka 101 - Confluent (YouTube playlist)](https://youtube.com/playlist?list=PLa7VYi0yPIH1Su3nVNuRePh2Gdw6_UujU&feature=shared)
+  - [ ] https://www.youtube.com/@Confluent/playlists
+  - [x] [Kafka in 100 Seconds - Fireship](https://www.youtube.com/watch?v=uvb00oaa3k8)
+  - [x] [Apache Kafka in 6 minutes - James Cutajar](https://www.youtube.com/watch?v=Ch5VhJzaoaI)
+  - [ ] [System Design: Apache Kafka In 3 Minutes - ByteByteGo](https://youtu.be/HZklgPkboro?feature=shared)
+  - [ ] [System Design: Why is Kafka fast? - ByteByteGo](https://youtu.be/UNUz1-msbOM?feature=shared)
+
+  - [ ] [Apache Kafka: обзор](https://habr.com/ru/companies/piter/articles/352978/)
+  - [ ] [Kafka за 20 минут. Ментальная модель и как с ней работать](https://habr.com/ru/companies/kuper/articles/738634/)
+  - [ ] [Apache Kafka. Пишем простой producer и consumer и тестируем их](https://habr.com/ru/articles/742786/)
+  - [ ] [Работа Apache Kafka на примерах. Поднимаем Kafka Cluster используя docker-compose](https://habr.com/ru/articles/738874/)
+  - [ ] [Знакомимся с архитектурой Apache Kafka](https://habr.com/ru/companies/otus/articles/725168/)
+  - [ ] [Apache Kafka и Spring Boot: лёгкая интеграция](https://habr.com/ru/companies/slurm/articles/772818/)
+  - [ ] [Как протестировать логику консьюмеров и продюсеров и не сгореть? Spring Boot 3, Spring Kafka](https://habr.com/ru/companies/alfastrah/articles/816057/)
+  - [ ] [Инструменты для тестирования Kafka](https://habr.com/ru/companies/otus/articles/715572/)
+  - [ ] []()
 
 ## DDD
   - [ ] "DDD Quickly" 
-  - [ ] "DDD Distilled" - Vaughn Vernon
+  - [x] "DDD Distilled" - Vaughn Vernon
   - [ ] "DDD Re-distilled"
   - [ ] “Learning Domain-Driven Design” by Vlad Khononov
   - [ ] "Implementing Domain-Driven Design" - Vaughn Vernon
   - [ ] DDD Blue book - Eric Evans
-  - [ ] https://martinfowler.com/bliki/BoundedContext.html + https://martinfowler.com/tags/domain%20driven%20design.html
+  - [ ] Patterns, Principles, and Practices of Domain-Driven Design	by Scott Millett, Nick Tune
+  - [ ] https://martinfowler.com/bliki/BoundedContext.html
+  - [ ] + https://martinfowler.com/tags/domain%20driven%20design.html
+  - [ ] [Разбираем Вон Вернон "Реализация методов предметно-ориентированного проектирования"(YouTube playlist) - St. Coder's Corner](https://www.youtube.com/playlist?list=PLPB4LO3mfohtzc9ImmnH81JhrXPFW0Brt)
+  - [x] [#1 Domain driven design: основные понятия, зачем нужен ddd? - R.T. Dev](https://www.youtube.com/watch?v=ThA64dlg0x8)
+  - [ ] что-то еще на портале microsoft было
+
+
+  Докладчик перепутал определения сабдоменов и ограниченных контекстов. В красной книге Вона Вернона (на которую докладчик ссылался в начале) ясно написано, что сабдомены (подобласти) являются областью ЗАДАЧ, то есть то, что хочет сделать бизнес. Ограниченные контексты представляют собой область РЕШЕНИЙ, куда входит МОДЕЛЬ ПРЕДМЕТНОЙ ОБЛАСТИ (а точнее модель подобласти, если контекст входит в эту подобласть, см рисунок на слайде), и все что определяется моделью — сервисы приложения, отображение(UI) и так далее.
+
+  можно было упомянуть, что сам Эванс приводит, что внедрение всех принципов или большинства аспектов изложенных им (считать DDD), увеличивает трудозатраты в разы. Эванс говорит, что допускается использовать в DDD подобных системах срезы в виде используемых фреймворков для сокращения трудозатрат на разработку. Это тонкая грань без формализованных критериев когда нужно в DDD и когда не нужно в DDD.
+
 
 ## Сети
   - [ ] [Сетевые модели (infocisco.ru)](http://infocisco.ru/network_model_osi.html) + [Все статьи](http://infocisco.ru/articles.html)
+
+## Автоматизация сборки проектов
+  - [ ] Maven - dmdev
+
+## Контейнеризация
+  - [ ] [Docker для новичков - javabegin (YouTube playlist)](https://youtube.com/playlist?list=PL8X2nqRlWfaYovSn2VgmJ1c-WaUTTVdcW&feature=shared)
+  - [ ] [Docker Для Начинающих за 1 Час | Docker с Нуля - Vlad Mishustin](https://www.youtube.com/watch?v=lr1rYnUubpQ)
+
+## DevOps/Infrastructure
+  - [ ] [Jenkins Уроки - BAKAVETS (YouTube playlist)](https://youtube.com/playlist?list=PL3SzV1_k2H1WK6LGxIf7-1yOj-In0Ieoh&feature=shared)
+  - [ ] [Kubernetes Уроки - BAKAVETS (YouTube playlist)](https://youtube.com/playlist?list=PL3SzV1_k2H1VDePbSWUqERqlBXIk02wCQ&feature=shared)
+
+## CS
+  - [ ] CS50
+  - [ ] Теоретический минимум по Computer Science - Владстон Феррейра Фило (зеленая и оранжевая книжки)
+  - [ ] Гид по Computer Science - книжка с белкой
+  - [ ] [Основы Computer Science - Alex FanTasT (YouTube playlist)](https://youtube.com/playlist?list=PLt865Tpy2puXYHk2HhRfu1uXTrqz4deXs&feature=shared) - в него входит [YouTube playlist Основы программирования от Alek OS и прочие видео с этого канала](https://youtube.com/playlist?list=PLIJLLSrXDPojDGKW0WZ7sU0eO3nyn0oDc&feature=shared)
+  - [ ] Компьютерные науки. Базовый курс - Брукшир, Брилов (Computer Science. An Overview)
+  - [ ] teachyourselfcs
+  - [ ] ossu
 
 ## Карьера
   - [ ] "Cracking the Coding Interview или Карьера программиста" - Г. Лакман Макдауэлл
@@ -134,6 +285,9 @@
   - [ ] "Программист-Фанатик", Чед Фаулер ("The Passionate Programmer: Creating a Remarkable Career in Software Development")
   - [ ] "Идеальная работа" - Р. Мартин
   - [ ] "Идеальный программист" - Р. Мартин
+
+  ### Собеседование
+  - [ ] https://github.com/enhorse/java-interview
 
 ## Доклады
 - ### Testing
@@ -148,6 +302,7 @@
     - [ ] [Marc Philipp — JUnit 5 — The New Testing Framework for Java and Platform for the JVM](https://www.youtube.com/watch?v=751gMXH-lEE)
     - [ ] [Marc Philipp — JUnit 5 extensions: from conditional test execution to test templates](https://www.youtube.com/watch?v=r-8EGXMFJaw)
     - ...
+    - [ ] [Тестирование Consumer Driven контрактов с использованием Spring Cloud Contract - Александр Бармин](https://www.youtube.com/watch?v=YcDEfb8BYyE&list=PLvo_NnRjK7R1lhvS_ua0TEo0pOl5XaaFC&index=2)
 
 - ### Java + ООП
   - [x] [Александр Бармин — SOLIDный чистый код на простых примерах](https://www.youtube.com/watch?v=StWB7NJjPZc)
@@ -197,7 +352,7 @@
 
 - ### Dev/Микросервисы
   - [x] [Александр Бармин - Микросервисы со Spring Boot and Spring Cloud](https://www.youtube.com/watch?v=Ts7snqxS6Zk)
-  - [ ] [Александр Бармин - Шаблоны проектирования для микросервисов](https://www.youtube.com/watch?v=_RCiOo4Dv8w)
+  - [x] [Александр Бармин - Шаблоны проектирования для микросервисов](https://www.youtube.com/watch?v=_RCiOo4Dv8w)
   - [ ] [Ануар Нурмаканов — Event Sourcing и CQRS на конкретном примере](https://www.youtube.com/watch?v=AKGT7wkVd34) 
   - [ ] [Микросервисная архитектура, подходы и технологии / Кирилл Ветчинкин (TYME)](https://www.youtube.com/watch?v=FF-GZ7iipwc)
   - [ ] [Шаблоны проектирования микросервисов на примере Авито / Фрол Крючков (Авито)](https://www.youtube.com/watch?v=5_9x7czHJOM)
@@ -213,6 +368,7 @@
   - [ ] [Владимир Маслов — System Design. Как построить распределенную систему и пройти собеседование](https://www.youtube.com/watch?v=popkBBjbAv8)
   - [ ] [Паттерн «Saga» в бронировании отелей · Антон Цитульский](https://www.youtube.com/watch?v=owCEP2rKV9I)
   - [ ] [Проектирование программного обеспечения (весна 2022) - CSC (YouTube playlist)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQwYFLXBG22XnKYXFzQ7-1K)
+  - [ ] [Микросервисы с нуля / Семен Катаев (Авито)](https://www.youtube.com/watch?v=eI1QQUrFUZI)
 
 - ### Database
   - [ ] [Олег Бартунов - Postgres, open source](https://www.youtube.com/watch?v=z1i-xkPVwEQ)
@@ -231,6 +387,10 @@
   - [ ] [Eric Evans - Keynote: DDD Isn't Done: A Skeptical, Optimistic​, Pragmatic Look](https://www.youtube.com/watch?v=R2IAgnpkBck)
   - [ ] [Алексей Мерсон — Domain-driven design: рецепт для прагматика](https://www.youtube.com/watch?v=CR9mLGN9jh0)
   - [ ] [Максим Морев — DDD в действии](https://www.youtube.com/watch?v=c0f4HOfUGT0)
+  - https://www.youtube.com/results?search_query=Michael+Pl%C3%B6d
+  - [ ] [Getting modules right with Domain-driven Design by Michael Plöd @ Spring I/O 2022](https://www.youtube.com/watch?v=Q_0XW46IlHY)
+  - [ ] [Introduction to Context Mapping - Michael Plöd - DDD Europe 2022](https://www.youtube.com/watch?v=k5i4sP9q2Lk)
+  - [ ] [Implementing DDD with the Spring Ecosystem by Michael Plöd @ Spring I/O 2018](https://www.youtube.com/watch?v=a9dF7fnArq0)
   - [ ] Сергей Баранов — Многоликий DDD [1](https://www.youtube.com/watch?v=2WHarUW0PjI) и [2](https://www.youtube.com/watch?v=NSN-NXfbEqM)
   - [ ] [Просто о сложном - Domain Driven Design [ru] / Дмитрий Науменко](https://www.youtube.com/watch?v=7HXIrEsmlzM)
   - [ ] [Артём Антоненко «Domain Driven Design» | CODEiD (11.08.2018)](https://www.youtube.com/watch?v=_CK5Kag7enw)
@@ -239,9 +399,13 @@
   - [ ] [The One Question To Haunt Everyone: What is a DDD Aggregate? - Thomas Ploch - DDD Europe 2022](https://www.youtube.com/watch?v=zlFqjD2LKlE)
   - [ ] [Domain-Driven Design Europe https://www.youtube.com/@ddd_eu]
 
+### Kafka
+  - [ ] [Иван Пономарёв — Apache Kafka: Что это и как она изменит архитектуру вашего приложения](https://youtu.be/nkYW7YqJYmE?feature=shared)
+
 - ### Прочее 
   - [ ] [Техническое интервью с Евгением Борисовым](https://www.youtube.com/watch?v=4ESHltu1YBI)
   - [ ] [Евгений Борисов, Барух Садогурский — Приключения Сеньора Холмса и Джуниора Ватсона в мире разработки](https://www.youtube.com/watch?v=RBhf8TPy5i4)
+  - [ ] [Вторая чашка кофе с Joker / Евгений Борисов // 21 октября 2020](https://www.youtube.com/watch?v=wpEPvAqnhZI&t=2156s)
     
 ### CHECK
 - ### Books

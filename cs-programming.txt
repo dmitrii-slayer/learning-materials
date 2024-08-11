@@ -36,6 +36,7 @@ As nobody can figure out how Ben's computer actually works reliably without resi
 3. Operating Systems: Design and Implementation, Albert S. Woodhull, Andrew S. Tanenbaum (minix book)
 4. Operating Systems Concepts (dino book)
 5. Operating systems and middleware: Supporting controlled interaction, Hailperin, M. (2019) https://my.uopeople.edu/pluginfile.php/57436/mod_book/chapter/330385/osm-rev1.3.1.pdf
+6. YouTube видео Operating System от Neso Academy (https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)
 
 		Algorithms and Data Structures:
 Grokking Algorithms: An illustrated guide for programmers and other curious people by Aditya Y. Bhargava
